@@ -1,6 +1,6 @@
 Garages = {
     ["motelgarage"] = {
-        label = "Garage (A)",
+        label = "Motel Garage",
         takeVehicle = vector3(273.43, -343.99, 44.91),
         spawnPoint = vector4(276.5253, -339.6285, 44.5074, 69.8983),
         putVehicle = vector3(276.69, -339.85, 44.91),
@@ -28,7 +28,7 @@ Garages = {
         showBlip = true
     },
     ["spanishave"] = {
-        label = "Garage (C)",
+        label = "Spanish Ave",
         takeVehicle = vector3(-1160.86, -741.41, 19.63),
         spawnPoint = vector4(-1185.8275, -742.5179, 19.6885, 308.4373),
         putVehicle = vector3(-1147.58, -738.11, 19.31),
@@ -42,7 +42,7 @@ Garages = {
         showBlip = true
     },
     ["caears24"] = {
-        label = "Garage (D)",
+        label = "Ceasers 24",
         takeVehicle = vector3(69.84, 12.6, 68.96),
         spawnPoint = vector4(63.9609, 16.4991, 68.7744, 338.4802),
         putVehicle = vector3(65.43, 21.19, 69.47),
@@ -56,7 +56,7 @@ Garages = {
         showBlip = true
     },
     ["caears242"] = {
-        label = "Garage (F)",
+        label = "Ceasers 24 2",
         takeVehicle = vector3(-475.31, -818.73, 30.46),
         spawnPoint = vector4(-476.8912, -809.9786, 30.1283, 269.3040),
         putVehicle = vector3(-453.6, -817.08, 30.61),
@@ -84,7 +84,7 @@ Garages = {
         showBlip = true
     },
     ["airportp"] = {
-        label = "Garage (H)",
+        label = "Airport",
         takeVehicle = vector3(-796.86, -2024.85, 8.88),
         spawnPoint = vector4(-779.2738, -2039.7656, 8.4695, 315.3794),
         putVehicle = vector3(-804.84, -2023.21, 9.16),
@@ -98,7 +98,7 @@ Garages = {
         showBlip = true
     },
     ["beachp"] = {
-        label = "Garage (I)",
+        label = "Beach",
         takeVehicle = vector3(-1183.1, -1511.11, 4.36),
         spawnPoint = vector4(-1183.4795, -1495.9666, 3.9667, 124.0258),
         putVehicle = vector3(-1176.81, -1498.63, 4.37),
@@ -182,7 +182,7 @@ Garages = {
         showBlip = true
     },
     ["pillboxgarage"] = {
-        label = "Garage (O)",
+        label = "Legion",
         takeVehicle = vector3(215.9499, -809.698, 30.731),
         spawnPoint = vector4(217.5121, -799.3945, 30.3637, 68.6201),
         putVehicle = vector3(218.0894, -781.370, 30.389),
@@ -196,7 +196,7 @@ Garages = {
         showBlip = true
     },
     ["aptgarage"] = {
-        label = "Garage (P)",
+        label = "Alta Apt",
         takeVehicle = vector3(-297.87, -990.49, 31.08),
         spawnPoint = vector4(-297.6372, -989.7461, 30.6683, 338.2763),
         putVehicle = vector3(-297.87, -990.49, 31.08),
